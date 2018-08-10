@@ -16,6 +16,6 @@ class Dog
 end
 new_name = Dog.new('Fido')
 puts new_dog.name
-new_breed = Dog.new("Corgi")
+new_breed = Dog.new('Corgi')
 puts new_dog.breed
  
