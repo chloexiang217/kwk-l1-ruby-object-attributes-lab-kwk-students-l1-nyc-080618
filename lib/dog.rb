@@ -14,8 +14,7 @@ class Dog
     @breed = new_breed 
   end
 end
-new_dog = Dog.new("Fido")
+new_dog = Dog.new("Fido", "Pug")
 puts new_dog.name
-new_dog = Dog.new("Pug")
 puts new_dog.breed
  
