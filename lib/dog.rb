@@ -19,6 +19,7 @@ class Dog
 end
 
 new_dog = Dog.new("Fido")
- puts new_dog.name
+new_dog.name
+
 
  
