@@ -18,6 +18,6 @@ class Dog
   end
 end
 
-Dog.new
-  
+new_dog = Dog.new("Fido")
+ puts new_dog.name
  
