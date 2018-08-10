@@ -21,5 +21,5 @@ end
 new_dog = Dog.new("Fido")
 puts new_dog.name
 new_dog = Dog.new("Cocker Spaniel")
-puts new_dog.name
+puts new_dog.breed
  
